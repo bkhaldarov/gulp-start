@@ -11,3 +11,4 @@
 Пример подключения шрифтов в `common/fonts.scss`. Не забудьте шрифты заменить на свои, а также поменять необходимые свойства в `root.scss`
 # gulp-project 
 # gulp-project
+# my-gulp-start
